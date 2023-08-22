@@ -111,6 +111,7 @@
 }
 html,body{
     width: 100%;
+    cursor: pointer;
     height: 100%;
 }
 #work{

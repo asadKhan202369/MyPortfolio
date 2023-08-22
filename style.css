@@ -87,6 +87,7 @@
 html,body{
     width: 100%;
     height: 100%;
+    cursor: pointer;
 }
 #mobilenav{
     font-family:"gilroy";
@@ -602,8 +603,8 @@ a{
         display: initial;
     }
     #btns img{
-        width: 110%;
-        height: 15vh;
+        /* width: 110%; */
+        /* height: 6vh; */
     }
 }
 
